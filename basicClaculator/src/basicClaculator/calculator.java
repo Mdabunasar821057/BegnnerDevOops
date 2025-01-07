@@ -45,7 +45,7 @@ public class calculator {
     	   result = num1 / num2;
     	   System.out.println("Result: " + result);
     	   }else {
-    		   System.out.println("Error:Division by zero Is Not Allowed");
+    		   System.out.println("Error:Division BY ZERO IS NOT AllOWED");
     		   
     	   }
     	   break; 
