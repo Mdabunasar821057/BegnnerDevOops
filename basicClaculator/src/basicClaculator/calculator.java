@@ -50,7 +50,7 @@ public class calculator {
     	   }
     	   break; 
     	   default:
-    		   System.out.println("Error invalid operation");
+    		   System.out.println("Error invalid Operation");
     		   break;
             
     	   case '%':
