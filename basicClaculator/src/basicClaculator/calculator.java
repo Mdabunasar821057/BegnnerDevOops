@@ -58,7 +58,7 @@ public class calculator {
     	  	   result = num1 % num2;
     	  	   System.out.println("Result: " + result);
     	  	   }else {
-    	  		   System.out.println("Error:moduls by zero is not allowed");
+    	  		   System.out.println("Error:Moduls By Zero is Not Allowed");
     	  		   break;
     	  		   
     	  	   }
